@@ -24,7 +24,7 @@ const NotesList = () => {
             style={{
               cursor: "pointer",
               backgroundColor:
-                selected === index ? "yellow" : "transparent"
+                selected === index ? "greenyellow" : "transparent"
             }}
           >
             {note}
